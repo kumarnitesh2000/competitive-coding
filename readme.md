@@ -30,3 +30,7 @@ Q 8) we have an array [1,2,5] represents the coin denotion (1 re , 2rs, 5rs) coi
                 [5],
                 [1,2,1,1]
               ]  
+
+Q 9) Substring Problems using my favourite kmp algo hashing technique.
+     test cases are there in the code .
+
