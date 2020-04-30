@@ -34,3 +34,5 @@ Q 8) we have an array [1,2,5] represents the coin denotion (1 re , 2rs, 5rs) coi
 Q 9) Substring Problems using my favourite kmp algo hashing technique.
      test cases are there in the code .
 
+Q 10). problem is we have an array find that pair with given sum k 
+       the unique part is by using hashing .
