@@ -13,4 +13,20 @@ Q 4) Find for the largest Consecutive Strings .example "AABBBCDEEEEA" return {"E
 
 Q 5) Least Common Ancestor for both given nodes in tree.
 
-Q 6) triplet whose sum is equal to the givne sum  
+Q 6) triplet whose sum is equal to the givne sum .
+
+Q 7) Find the largest Area Under Histogram.
+     in x axis take 1 unit distance and the height of bar graphs are
+     [6,1,4,3,4,1] Output is 9 .research more on question we have solution 
+     using stack Ds. O(n).
+
+Q 8) we have an array [1,2,5] represents the coin denotion (1 re , 2rs, 5rs) coin 
+     find the unique combination to add them to
+     make the sum equals to given sum . coins are infinite available.
+     suppose 5 is sum 
+     output: [
+                [1,1,1,1,1],
+                [2,2,1],
+                [5],
+                [1,2,1,1]
+              ]  
