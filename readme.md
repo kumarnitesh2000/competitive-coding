@@ -50,3 +50,5 @@ Q 13) Stack problem once again to get the next greater element :
       example : [1,2,9,5,10,20,31,3] result is 1->2 , 2->9 ,9->10 ,5->10 ,10->20 ,20->31 ,31->no , 3->no.
 
  Q 14)Bfs and Dfs algos with one test case intro to backtracking .
+ 
+ Q 15 ) Use Divide and Conquer Approach to find that is there any majority elemnt or not .
