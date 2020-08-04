@@ -52,3 +52,6 @@ Q 13) Stack problem once again to get the next greater element :
  Q 14)Bfs and Dfs algos with one test case intro to backtracking .
  
  Q 15 ) Use Divide and Conquer Approach to find that is there any majority elemnt or not .
+
+
+Q 16 ) Trie Data Structure insert and Search
