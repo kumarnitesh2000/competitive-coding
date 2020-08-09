@@ -42,7 +42,7 @@ def solve(arr):
       mini = min(lis)
       maxi = max(lis)+1
 
-      print(f'({mini} {maxi})',end=' ')
+      print(f'({} {})'.foramt(mini,maxi),end=' ')
       
       c = 1
       
